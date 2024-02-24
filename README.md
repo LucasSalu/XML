@@ -1,10 +1,11 @@
-#Instruções de Configuração e Execução
+#Instruções de Configuração e Execução#
 Este repositório contém dois projetos: nanodata e nanodataXML.
 
 Configuração do Projeto nanodata
 Navegue até o diretório nanodata:
 
 cd nanodata
+
 npm install
 
 #Configuração do Projeto nanodataXML
