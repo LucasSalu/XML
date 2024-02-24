@@ -1,0 +1,9 @@
+services:
+  postgres:
+    image: postgres
+    environment:
+      - POSTGRES_PASSWORD=123456
+    volumes:
+      - ./nanodata.sql:/docker-entrypoint-initdb.d/nanodata.sql
+    ports:
+      - "5432:5432"
