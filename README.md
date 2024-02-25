@@ -7,9 +7,11 @@ Navegue até o diretório nanodata:
 cd nanodata
 
 npm install
+
 npm run dev
 
 #Configuração do Projeto nanodataXML
+
 Este é um projeto Spring que requer Java 17+ e Docker Compose para execução.
 
 Certifique-se de ter o Java 17+ instalado em sua máquina.
